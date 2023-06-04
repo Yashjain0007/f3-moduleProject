@@ -1,0 +1,43 @@
+body {
+  padding: 2rem;
+}
+
+.current-img {
+  max-width: 85vw;
+  max-height: 100vh;
+  /* width: 50vw; */
+}
+
+#current-image-container {
+  background: black;
+  color: white;
+  padding: 2rem;
+}
+.heading,
+.heading-2 {
+  font-size: 24px;
+  font-weight: 400;
+}
+h1 {
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top: 0;
+}
+#search-form,
+.heading {
+  margin-top: 10px;
+}
+input {
+  margin: 10px;
+}
+.heading-2 {
+  margin-left: 0;
+}
+#search-history {
+  list-style-type: none;
+
+  padding: 0;
+}
+p {
+  font-size: 18px;
+}
